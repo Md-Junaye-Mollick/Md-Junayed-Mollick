@@ -16,10 +16,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing FREE FIRE at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- A passionate Front-end developer
+- Playing Games at spare time
+- Currently learning Web Development by PSPL Computer
+- Personal website [link](empty)
 
 <br><br>
 
@@ -33,8 +33,6 @@
 - *Languages*:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -144,6 +142,6 @@
 
 <br>
 
-Credit: [Md Junayed Mollick](https://github.com/0xabdulkhalid)
+Credit: [Md Junayed Mollick](https://github.com/Md-Junaye-Mollick/Md-Junayed-Mollick)
 
 Last Edited on: 18/4/2024
