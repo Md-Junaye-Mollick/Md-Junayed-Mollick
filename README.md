@@ -1,162 +1,154 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
-
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
-
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
-
-<br/>
-
----
-
-<details>
-<summary>
-Languages and Tools🛠:
-</summary>
-  <br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
-<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-</details>
-
----
-
-<details>
-<summary> Hackathons 💻: </summary>
-  
-<br/>
-
-Def Hacks | Global 2.0  -  [Check out!](https://defhacks.co/hackathons/global_2.0)<br/>
-Octa Hacks 3.0          -  [Check out!](https://octahacks.tech/)<br/>
-HackSRM 3.0             -  [Check out!](https://hacksrm.tech/)<br/>
-UniHack                 -  [Check out!](https://unihack.eu/)<br/>
-NextStep Hacks          -  [Check out!](https://nextstephacks.weebly.com/)<br/>
-Hack With CW            -  [Check out!](https://hackwithcw.tech/)<br/>
-ThetaHacks I           -  [Check out!](https://thetahacks.tech/)<br/>
-
-</details>
-
----
-
-<details>
-<summary> Connect with me🤝: </summary>  
-
-<br/>
-
-<a href="https://t.me/Dave_bhandari">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/Davekibh">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://instagram.com/Dave_bhandari/">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
-  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<a href="https://twitter.com/dave_bhandari">
-  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<br/>
-
-</details>
-
----
-
-### Github Activity ✔:
-
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
-
-<br/>
-<br/>
-<br/>
-
-### My Projects ✨:
-  
-<a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
-
-### My WakaTime Stats 📊:
-
-<!--START_SECTION:waka-->
-```text
-Week: 07 January, 2021 - 14 January, 2021
-
-HTML         2 hrs 3 mins    ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   1 hr 55 mins    ███████████▓░░░░░░░░░░░░░   46.45 % 
-Text         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-```
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+# <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img> !Bravo, <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
 </div>
------
-Credits: [Davekibh](https://github.com/Davekibh)
 
-Last Edited on: 15/01/2021
+
+
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+<img alt="Hola" align="center" height="50%" width="100%" src="https://see.fontimg.com/api/renderfont4/2O6xe/eyJyIjoiZnMiLCJoIjoyMywidyI6MTAwMCwiZnMiOjIzLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gSSdtIFNhbnNrYXIgU2FodSB8fCBEU21hcmsg/organical-personal-use-bold-italic.png"></img><br>
+<img height="80px" align="center" width="80" alt="Hola" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/au-kddi/190/flushed-face_1f633.png"></img>
+</div>
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hello%20 I%27m%20%5BSanskar%20Sahu%20%7C%7C%20DSmark%5D;A+Programmer;Web+Developer+%26%26%20+Web+Designer;Gamer%20%26%26%20Developer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50">
+</p>
+ 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+<div align="center">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+<img alt="dsmark" height="50px" width="70px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/docomo/205/ghost_1f47b.png">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
+  <br>
+  
+
+
+ <div align="center">
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
+<br />
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+</p>
+
+### Computer :> Programs && Tools
+
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
+```mermaid
+flowchart TB
+ A>"Computer"]  
+ B[("Programs")] 
+ C[("Tools")]
+ A --> B
+ A --> C
+``` 
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/vscode.png" width=16> **Vscode** not for web it for everything
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/chromium.png" width=16> Chromium base web browser like **Firefox** 
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/gimp.png" width=16> <a href="https://getpaint.net">**Gimp**</a> for image manipulation
+- <img src="https://github.com/DSDarkMark/DSDarkMark/blob/master/assests/popos.png" width=16> linux I highly prefer Arch. but, sometimes you can rely on debiun. so, **PopsOs** by (System76)
+
+- 🌱 I’m currently learning more about **Reactjs(Nextjs)**.
+- 👯 I’m looking to collaborate on [github](https://github.com/DSDarkMark/project_short "DSmark Project").
+- 🤔 I’m looking for help with Nextjs documentation.
+- 💬 Ask me about web Development or any tech-related stuff.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend almost time to watch **anime**.
+
+## Technologies 
+
+```mermaid
+flowchart 
+f1[HTML]
+f2[Css]
+f3[javaScpit]
+f4[Markdown]
+fw1((ReactJs))
+fw2((NextJs))
+fw3((Bootstrap))
+fw4((tailwind))
+fw5((Scss))
+fw6((mermaid))
+b1{NodeJs}
+b2{RestAPIs}
+b3{PHP}
+ subgraph  BackEnd
+b1
+b2
+b3
+ end  
+ subgraph Framworks 
+fw1
+fw2
+fw3
+fw4
+fw5
+fw6
+ end
+  subgraph  FrontEnd 
+ f1
+ f2
+ f3
+ f4
+ end  
+ f1 --o f2
+ f1 --o f3
+ f1 --o f4
+ f2 --> fw3
+ f2 --> fw4
+ f2 --> fw5
+ f3 --o fw1
+ f3 --o fw2
+ fw2 --o b1
+ f4 --> fw6
+ b1 --o b2
+ ```
+
+## Touch Me  ˊ•⌔•ˋ 
+
+|[Discord](https://discord.gg/xm4DN6JTVt)|[Github](https://github.com/DSDmark/)|[LinkIn]()|[DevToCommunity](https://dev.to/dsmark)|[Gmail](sahup3296@gmail.com)|
+|:-|:-|:-|:-|:--|
+---
+
+> **Youth is a lie. It is nothing but evil.**
+
+Those who rejoice in youth deceive themselves and those around them, accepting in full the circumstances that devour them. 
+ʕ •́؈•̀ ₎
+In the face of the word " **Youth**  ", they will twist any common interpretation or accepted notion out of recognition.
+
+In their minds, lies, secrets, sins, and failure are nothing more than the spice of youth.
+
+If failure is truly the proof of one's youth...
+
+Then is there not something abnormal about But I am sure none of them would admit to this. It is all a double standard.
+
+My conclusion is this All you fools who delight in youth...
+
+> **Be Drop Dead.**
+
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+---
+
+
+Credit:[Sanskarsahu](https://github.com/DSDmark)
+Last Edited on: 1/4/2022
