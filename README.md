@@ -37,7 +37,7 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
 
-Information: `A passionate Front-end developer` `Playing Games and Watching Amine at spare time` `Currently learning Web Development by PSPL Computer Center` 
+Information: `A passionate Front-end developer` `Playing Games and Watching Amine at spare time` `Currently learning Web Development by JNNYCTC` 
 
 Skills: `HTML` `CSS` `JavaScript` `Git` `GitHub` 
 
