@@ -34,12 +34,18 @@
 
 ## About Me:
 
-[<img align="left" height="94px" width="94px" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj" alt="OneBitCode" />](https://www.onebitcode.com/)
+<img align="right" height="220px" src="https://unpkg.com/@rajesh-nitjsr/open-source-illustrations@1.0.0/developer-illustration.svg" alt="Developer Illustration" />
 
-**Information:**  
-`A passionate Front-end developer`  
-`Playing Games and Watching Anime in spare time`  
-`Currently learning Web Development at JNNYCTC`  
+🎓 I’m **Md Junayed Hossain Mollick**, a passionate and dedicated **Software Engineering Student** with a strong interest in modern web technologies.  
+💻 I focus on building user-friendly, responsive, and scalable front-end applications.  
+🌱 Currently learning and improving my skills in **React.js**, **Node.js**, and full-stack development.  
+🚀 I’m working on real-world projects to strengthen my problem-solving and development abilities.  
+🎮 In my free time, I enjoy playing games and watching anime to relax and recharge.  
+
+### 💡 Fun Facts:
+- 💬 I love talking about tech, productivity, and AI!
+- 🔭 I’m currently building my **portfolio** and working on **open-source contributions**.
+- 📚 Learning never stops — always curious and experimenting with new tools and libraries.
 
 **Skills:**  
 `HTML` `CSS` `JavaScript` `Git` `GitHub`
